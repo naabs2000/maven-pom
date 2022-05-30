@@ -156,6 +156,7 @@ Build Tool | Sample | Description
 ---------- | ------ | -----------
 Java | [HelloFX project](IDE/VSCode/Non-Modular/Java) | Non-modular project to run from Visual Studio Code.
 Maven | [HelloFX project](IDE/VSCode/Non-Modular/Maven) | Non-modular project to run from Visual Studio Code, with Maven.
+
 Gradle | [HelloFX project](IDE/VSCode/Non-Modular/Gradle) | Non-modular project to run from Visual Studio Code, with Gradle.
 
 
